@@ -1,0 +1,21 @@
+{
+  "input": {
+    "LocalInput": {
+      "basePath": "assignment_files",
+      "salesFile": "sales.csv",
+      "calendarFile": "calendar.csv",
+      "storeFile": "store.csv",
+      "productFile": "product.csv"
+    }
+  },
+  "divisions": [],
+  "granularity": {
+    "Weekly": {}
+  },
+  "output": {
+    "LocalOutput": {
+      "path": "output",
+      "format": "json"
+    }
+  }
+}
